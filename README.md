@@ -1,5 +1,7 @@
 # mybinlog_dig使用帮助：
+该程序用于MySQL数据库的ROW格式binlog挖掘。它可用于查看日志或重新执行日志。
 
+帮助文档
 print '''
           --paratype: method to parse datadict for finding column map relation. value:file or database.
           --parafile: the file for parseing datadict to find column map relation 
