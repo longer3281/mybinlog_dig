@@ -1,5 +1,5 @@
 # mybinlog_dig使用帮助：
-该程序用于MySQL数据库的ROW格式binlog挖掘。它可用于查看日志或重新执行日志。
+该程序用于MySQL数据库的ROW格式binlog挖掘。它可用于查看日志或重新执行日志。 
 
 --restore-type: for getting redo log or undo log. value: redo(default values) or undo
 --paratype: method to parse datadict for finding column map relation. value: file or database.
